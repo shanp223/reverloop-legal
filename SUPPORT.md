@@ -22,7 +22,13 @@ Reverloop is an iPhone and iPad focus timer with a growing terrarium and optiona
 
 **Where is my progress saved?** On your device. This version has no accounts or developer-operated cloud sync. Your device backup settings may affect whether local data is backed up by Apple.
 
-**Are there payments?** No purchases or subscriptions are active in this version.
+**What is Reverloop Plus?** An optional monthly or yearly subscription that adds custom focus lengths (5–180 minutes) and breaks (1–60 minutes) with saved presets, an exclusive terrarium collection and habitats, weekly and monthly insights, and color themes with matching app icons. Without Plus, you get 15, 25, and 30 minute sessions with 3, 5, and 5 minute breaks, plus app blocking, breaks, earned time, and your terrarium and history.
+
+**How do I cancel?** Go to **Your rules → Manage subscription**, or open iPhone **Settings → your name → Subscriptions**. You keep Plus until the end of the period you paid for.
+
+**I bought Plus but it isn't showing.** Go to **Your rules → Restore purchases** while signed in to the same Apple Account. If you're using Ask to Buy, Plus unlocks after approval.
+
+**Can I get a refund?** Apple handles refunds at [reportaproblem.apple.com](https://reportaproblem.apple.com).
 
 ## Report a problem
 
