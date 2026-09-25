@@ -1,12 +1,12 @@
 # Reverloop Privacy Policy
 
-**Effective date: September 24, 2026 · Current research prototype**
+**Effective date: September 25, 2026 · Version 1.0**
 
 Reverloop is provided by the independent developer operating the [shanp223 GitHub account](https://github.com/shanp223). Contact: [pixxlpickle@gmail.com](mailto:pixxlpickle@gmail.com).
 
 ## What Reverloop does
 
-Reverloop is a focus timer with a growing virtual terrarium, an earned app-time balance, optional Screen Time restrictions, and reminders to return after breaks. This policy describes the current iPhone prototype, not possible future features.
+Reverloop is a focus timer with a growing virtual terrarium, an earned app-time balance, optional Screen Time restrictions, and reminders to return after breaks. This policy describes the version 1.0 for iPhone and iPad, not possible future features.
 
 ## Information kept on your device
 
@@ -40,7 +40,7 @@ If you voluntarily contact support, your message, contact details, and any attac
 
 ## Retention and deletion
 
-Local progress stays until the app’s local data is removed. The current prototype has no account or remote account-deletion process. Before deleting the app, turn off protection in Reverloop and revoke its Screen Time permission. Delete the app, rather than offloading it, to remove its local container. Backup copies and exported files must be managed separately through Apple settings or the destination where you saved them. Shared extension data and restrictions should be checked during device validation; do not treat deleting the app as a verified method of revoking every system restriction.
+Local progress stays until the app’s local data is removed. The current version has no account or remote account-deletion process. Before deleting the app, turn off protection in Reverloop and revoke its Screen Time permission. Delete the app, rather than offloading it, to remove its local container. Backup copies and exported files must be managed separately through Apple settings or the destination where you saved them. Revoke Screen Time authorization explicitly rather than relying on app deletion to remove system restrictions.
 
 The developer cannot retrieve, correct, or delete a remote copy of your study history because this version does not maintain one. Any privacy rights applicable to information you send directly to support can be exercised by emailing [pixxlpickle@gmail.com](mailto:pixxlpickle@gmail.com). Depending on the law that applies to you, you may also have rights to access, correct, restrict, object to, or receive a copy of personal information we hold, and to complain to your local data protection authority. We do not discriminate against people for exercising applicable privacy rights.
 

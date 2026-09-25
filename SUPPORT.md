@@ -1,8 +1,8 @@
 # Reverloop Support
 
-Reverloop is an iPhone focus timer with a growing terrarium and optional earned Screen Time access.
+Reverloop is an iPhone and iPad focus timer with a growing terrarium and optional earned Screen Time access.
 
-**Current status:** research prototype. The timer, growing habitat, pause/resume, earned-time ledger, break flow, local history, and arrangement editor have been exercised in the simulator. Screen Time enforcement still requires a signed build and physical-device validation.
+**Version 1.0:** Focus timer, growing habitat, pause/resume, earned app time, planned breaks, local history, and a terrarium arrangement editor. Screen Time requires permission on a supported physical device.
 
 ## Common questions
 
@@ -16,9 +16,13 @@ Reverloop is an iPhone focus timer with a growing terrarium and optional earned 
 
 **How do I stop protection?** Use Your rules → Turn protection off, and revoke the app’s authorization in iPhone Settings if needed. Do this before removing the app.
 
+**Why is an unchecked app still blocked?** Save your changes after unchecking it. If its whole category is still selected, clear that category and select individual apps instead. Clear every selection and tap Unblock all apps to remove all Reverloop restrictions.
+
+**Accessibility:** Text follows the system text-size setting, the interface follows Light or Dark Mode, and Reduce Motion stops terrarium movement. Timer status is shown visually. Contact support with accessibility feedback; broad VoiceOver and Voice Control certification has not been completed.
+
 **Where is my progress saved?** On your device. This version has no accounts or developer-operated cloud sync. Your device backup settings may affect whether local data is backed up by Apple.
 
-**Are there payments?** No purchases or subscriptions are active in this prototype.
+**Are there payments?** No purchases or subscriptions are active in this version.
 
 ## Report a problem
 
