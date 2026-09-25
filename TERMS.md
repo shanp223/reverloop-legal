@@ -22,7 +22,19 @@ Saved focused seconds accumulate across sessions. Pauses do not earn time and do
 
 The app-time exchange rate is selected before a focus session and stays fixed for that session. Offline breaks do not require earned app time. App passes spend the chosen amount upfront; ending a pass early does not return unused virtual time.
 
-Terrarium items and app-time credits are in-app features with no cash value. They are not currency, a deposit, a prize, or a transferable asset. This version does not sell them and has no active subscriptions or in-app purchases. No future charge is authorized by these terms.
+Terrarium items and app-time credits are in-app features with no cash value. They are not currency, a deposit, a prize, or a transferable asset, and they cannot be bought.
+
+## 3a. Reverloop Plus subscription
+
+Reverloop Plus is an optional auto-renewing subscription, offered monthly or yearly at the price shown in the app before you buy. Plus adds custom focus and break lengths and saved presets, an exclusive terrarium collection (plants, a creature, and habitats) that still grows through focus time, extended insights, and color themes with matching app icons. App blocking, breaks, earned app time, your existing terrarium, and your history remain available without Plus.
+
+- **Billing.** Payment is charged to your Apple Account when you confirm the purchase. Apple processes all payments; we never receive your payment details.
+- **Auto-renewal.** Your subscription renews automatically at the then-current price for the same period unless you turn off auto-renew at least 24 hours before the current period ends. Your account is charged for renewal within 24 hours before the period ends.
+- **Cancel anytime.** Manage or cancel in your Apple Account subscription settings, or from **Your rules → Manage subscription** in the app. Cancelling stops future renewals; you keep Plus until the end of the paid period.
+- **Refunds.** Refunds are handled by Apple under its policies at [reportaproblem.apple.com](https://reportaproblem.apple.com). We cannot issue refunds directly.
+- **Family and Ask to Buy.** Purchases requiring a parent's approval unlock after approval.
+- **When Plus ends.** Custom session lengths return to the free 15, 25, and 30 minute sessions, Plus habitats and themes return to the defaults, and Plus terrarium pieces are hidden. Your focus history, minutes grown, and earned app time are never removed. If you subscribe again, your Plus pieces and settings return.
+- **Changes to price or features.** Apple will notify you of price increases where required. We may improve or change Plus features; we will not remove the core focus, blocking, and break features from the free version to push you toward Plus.
 
 ## 4. Screen Time and interruptions
 
@@ -42,7 +54,7 @@ The [Privacy Policy](PRIVACY.md) describes local storage, optional permissions, 
 
 The app may contain errors, lose data, or behave differently across system versions. No uninterrupted service, specific result, or permanent availability of every feature is promised. You can stop using it at any time. Turn off protection and revoke its permissions before removal if you have enabled restrictions.
 
-If material terms or data practices change for a released product, the revised documents will identify the effective date and the app will provide notice where required. New paid features would need separate pricing and purchase disclosures before use.
+If material terms or data practices change for a released product, the revised documents will identify the effective date and the app will provide notice where required. Any change to subscription pricing is shown in the app and handled by Apple before it applies to you.
 
 ## 7. Rights and limits
 
