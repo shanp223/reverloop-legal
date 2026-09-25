@@ -1,8 +1,8 @@
 # Reverloop Terms of Use
 
-**Draft for the current research prototype · Prepared September 24, 2026**
+**Effective date: September 24, 2026 · Current research prototype**
 
-**Not yet effective.** The operator’s legal name, private contact address, intended age group, and launch territories must be confirmed before public release. These are proposed product terms, not a claim of legal review or App Store approval.
+Reverloop is provided by the independent developer operating the [shanp223 GitHub account](https://github.com/shanp223) ("we" or "us"). By using Reverloop, you agree to these terms. If you do not agree, do not use the app. Contact: [pixxlpickle@gmail.com](mailto:pixxlpickle@gmail.com).
 
 ## 1. The app
 
@@ -12,7 +12,7 @@ These terms supplement any applicable platform terms. For an App Store release w
 
 ## 2. Your choices and responsibilities
 
-Use the app lawfully on a device you own or are authorized to use. You control the tasks and cues you enter, which distractions you select, whether to allow notifications, and whether to authorize Screen Time. Leave essential communication and study tools accessible.
+You must be at least 13 years old to use Reverloop. If you are below the age of legal majority where you live, use it with the permission of a parent or legal guardian. Use the app lawfully on a device you own or are authorized to use. You control the tasks and cues you enter, which distractions you select, whether to allow notifications, and whether to authorize Screen Time. Leave essential communication and study tools accessible.
 
 Reverloop is a personal productivity tool. It does not certify that a timer session was spent studying, guarantee improved grades, or provide medical treatment. Its break comparisons are descriptive observations based on recorded returns, not evidence that one break type causes better outcomes.
 
@@ -48,10 +48,10 @@ If material terms or data practices change for a released product, the revised d
 
 The developer retains rights in the app and its original interface and artwork, subject to applicable third-party rights. No ownership of the app is transferred through use.
 
-To the extent allowed by applicable law, this testing version is provided as available, without a promise that it will be error-free or fit every purpose. Nothing in these terms excludes liability or rights that cannot lawfully be excluded. These draft terms do not impose mandatory arbitration, waive class proceedings, or select a court or governing law before the operator and launch markets are confirmed.
+To the extent allowed by applicable law, this testing version is provided as available, without a promise that it will be error-free or fit every purpose. Nothing in these terms excludes liability or rights that cannot lawfully be excluded. These terms do not require mandatory arbitration or waive class proceedings. Contact us first if you have a concern so we can try to resolve it. These terms are governed by the laws of North Carolina, United States, without regard to conflict-of-law rules, except where mandatory laws provide otherwise. This choice does not deprive you of consumer protections or access to courts that applicable law guarantees.
 
 ## 8. Contact
 
-Operator: **awaiting confirmation**.
+Operator: The independent developer operating the [shanp223 GitHub account](https://github.com/shanp223) ("we", "us", or "the developer").
 
-Private support/privacy email: **awaiting confirmation**.
+Support and privacy: [pixxlpickle@gmail.com](mailto:pixxlpickle@gmail.com).

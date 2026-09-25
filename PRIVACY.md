@@ -1,8 +1,8 @@
 # Reverloop Privacy Policy
 
-**Draft for the current research prototype · Prepared September 24, 2026**
+**Effective date: September 24, 2026 · Current research prototype**
 
-**Publication fields still to confirm:** operator’s legal name, a private support/privacy email, and the effective date. This draft is not the final release policy.
+Reverloop is provided by the independent developer operating the [shanp223 GitHub account](https://github.com/shanp223). Contact: [pixxlpickle@gmail.com](mailto:pixxlpickle@gmail.com).
 
 ## What Reverloop does
 
@@ -36,13 +36,13 @@ With your permission, local notifications announce session completion and remind
 
 Exporting study history opens Apple’s share sheet. Information is sent only to a destination you choose; that destination’s privacy practices apply. Exported copies are outside the app’s control.
 
-If you voluntarily contact support, your message, contact details, and any attachments are processed to respond. Do not include passwords, private study content, or unredacted screenshots unless necessary. Support retention and the private contact address must be confirmed before release. GitHub issues are public and should not be used for private privacy requests.
+If you voluntarily contact support, your message, contact details, and any attachments are processed to respond. Do not include passwords, private study content, or unredacted screenshots unless necessary. We keep support correspondence as needed to handle your request, resolve related issues, and meet applicable legal obligations. You can request deletion by email; where retention is legally required, we will explain the limitation. GitHub issues are public and should not be used for private privacy requests.
 
 ## Retention and deletion
 
 Local progress stays until the app’s local data is removed. The current prototype has no account or remote account-deletion process. Before deleting the app, turn off protection in Reverloop and revoke its Screen Time permission. Delete the app, rather than offloading it, to remove its local container. Backup copies and exported files must be managed separately through Apple settings or the destination where you saved them. Shared extension data and restrictions should be checked during device validation; do not treat deleting the app as a verified method of revoking every system restriction.
 
-The developer cannot retrieve, correct, or delete a remote copy of your study history because this version does not maintain one. Any privacy rights applicable to information you send directly to support can be exercised through the private contact address once published.
+The developer cannot retrieve, correct, or delete a remote copy of your study history because this version does not maintain one. Any privacy rights applicable to information you send directly to support can be exercised by emailing [pixxlpickle@gmail.com](mailto:pixxlpickle@gmail.com). Depending on the law that applies to you, you may also have rights to access, correct, restrict, object to, or receive a copy of personal information we hold, and to complain to your local data protection authority. We do not discriminate against people for exercising applicable privacy rights.
 
 ## Apple and the legal website
 
@@ -52,12 +52,12 @@ These documents are hosted on GitHub. GitHub processes website access informatio
 
 ## Children and future changes
 
-This draft does not establish a child-directed service or a school data-processing agreement. The intended age group and launch territories must be confirmed before release. Do not send children’s personal information through public support channels.
+Reverloop is intended for people aged 13 and older and is not directed to children under 13. We do not knowingly collect personal information from children under 13. If you believe a child has sent us personal information, email us so we can address it and delete it where appropriate. Do not send children’s personal information through public support channels. This app does not provide a school data-processing agreement.
 
-If accounts, cloud sync, analytics, purchases, or other data practices are added, this policy and the app’s disclosures must be updated before those practices begin. The release policy will identify its effective date and operator.
+If accounts, cloud sync, analytics, purchases, or other data practices are added, this policy and the app’s disclosures must be updated before those practices begin. We will update the effective date and provide notice of material changes where required.
 
 ## Contact
 
-Operator: **awaiting confirmation**.
+Operator: The independent developer operating the [shanp223 GitHub account](https://github.com/shanp223) ("we", "us", or "the developer").
 
-Private support/privacy email: **awaiting confirmation**.
+Support and privacy: [pixxlpickle@gmail.com](mailto:pixxlpickle@gmail.com).

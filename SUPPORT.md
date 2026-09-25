@@ -24,6 +24,6 @@ Reverloop is an iPhone focus timer with a growing terrarium and optional earned 
 
 For a non-sensitive bug report, use [GitHub issues](https://github.com/shanp223/reverloop-legal/issues). Include the iOS version, app version, what you expected, and what happened. Remove personal content from screenshots. GitHub issues are public.
 
-Private support/privacy email: **awaiting operator confirmation**. Do not post private privacy requests or identifying information in public issues.
+Email [pixxlpickle@gmail.com](mailto:pixxlpickle@gmail.com) for support or private privacy requests. We aim to respond within two business days. Do not post private privacy requests or identifying information in public issues.
 
-[Privacy policy draft](PRIVACY.md) · [Terms draft](TERMS.md)
+[Privacy policy](PRIVACY.md) · [Terms of use](TERMS.md)
