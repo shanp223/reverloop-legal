@@ -44,6 +44,10 @@ Local progress stays until the app’s local data is removed. The current versio
 
 The developer cannot retrieve, correct, or delete a remote copy of your study history because this version does not maintain one. Any privacy rights applicable to information you send directly to support can be exercised by emailing [pixxlpickle@gmail.com](mailto:pixxlpickle@gmail.com). Depending on the law that applies to you, you may also have rights to access, correct, restrict, object to, or receive a copy of personal information we hold, and to complain to your local data protection authority. We do not discriminate against people for exercising applicable privacy rights.
 
+## Purchases
+
+Reverloop Plus is purchased through Apple's App Store. Apple processes the payment and tells the app on your device whether your subscription is active. We do not receive your name, payment details, or Apple Account information, and we do not run servers that store purchase records. Your Plus preferences (theme, habitat, and saved session presets) are stored only on your device. Apple's privacy policy applies to App Store purchases.
+
 ## Apple and the legal website
 
 Apple independently operates device services, backups, the App Store, and any diagnostics or testing services you choose to use. Apple’s own privacy terms apply to those services.
@@ -54,7 +58,7 @@ These documents are hosted on GitHub. GitHub processes website access informatio
 
 Reverloop is intended for people aged 13 and older and is not directed to children under 13. We do not knowingly collect personal information from children under 13. If you believe a child has sent us personal information, email us so we can address it and delete it where appropriate. Do not send children’s personal information through public support channels. This app does not provide a school data-processing agreement.
 
-If accounts, cloud sync, analytics, purchases, or other data practices are added, this policy and the app’s disclosures must be updated before those practices begin. We will update the effective date and provide notice of material changes where required.
+If accounts, cloud sync, analytics, or other data practices are added, this policy and the app’s disclosures must be updated before those practices begin. We will update the effective date and provide notice of material changes where required.
 
 ## Contact
 
