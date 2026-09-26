@@ -1,12 +1,12 @@
 # Reverloop Terms of Use
 
-**Effective date: September 25, 2026 · Version 1.0**
+**Effective date: September 26, 2026 · Version 1.1**
 
 Reverloop is provided by the independent developer operating the [shanp223 GitHub account](https://github.com/shanp223) ("we" or "us"). By using Reverloop, you agree to these terms. If you do not agree, do not use the app. Contact: [pixxlpickle@gmail.com](mailto:pixxlpickle@gmail.com).
 
 ## 1. The app
 
-Reverloop helps you structure study sessions, plan breaks, and visualize time spent focusing as a growing virtual terrarium. Version 1.0 provides the features described below. Features may change in later updates.
+Reverloop helps you structure study sessions, plan breaks, and visualize time spent focusing as a growing virtual terrarium. Version 1.1 provides the features described below. Features may change in later updates.
 
 These terms supplement any applicable platform terms. For an App Store release without a custom license agreement, Apple’s [Standard End User License Agreement](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/) governs the software license. Nothing here overrides mandatory consumer rights or Apple’s applicable terms.
 
@@ -20,27 +20,29 @@ Reverloop is a personal productivity tool. It does not certify that a timer sess
 
 Saved focused seconds accumulate across sessions. Pauses do not earn time and do not remove saved progress. Saved early finishes count. Plants and decorations unlock at cumulative focus milestones; plants grow with further focus, and visitors arrive automatically. Terrarium items can be rearranged without resetting their growth.
 
-The app-time exchange rate is selected before a focus session and stays fixed for that session. Offline breaks do not require earned app time. App passes spend the chosen amount upfront; ending a pass early does not return unused virtual time.
+**Earned screen time.** Minutes in apps you choose to earn with raise one shared daily limit on apps you choose to limit, up to the maximum you set. Earning is counted in 5-minute steps and resets at midnight. Usage counts come from Apple and can lag.
 
-Terrarium items and app-time credits are in-app features with no cash value. They are not currency, a deposit, a prize, or a transferable asset, and they cannot be bought.
+**Offline Reset.** For the time you choose, every app except phone calls and the apps you allow is paused. A reset can last from 15 minutes to 12 hours, and you can end it early in Reverloop at any time.
+
+Terrarium items and earned minutes are in-app features with no cash value. They are not currency, a deposit, a prize, or a transferable asset, and they cannot be bought.
 
 ## 3a. Reverloop Plus subscription
 
-Reverloop Plus is an optional auto-renewing subscription, offered monthly or yearly at the price shown in the app before you buy. Plus adds custom focus and break lengths and saved presets, an exclusive terrarium collection (plants, a creature, and habitats) that still grows through focus time, extended insights, and color themes with matching app icons. App blocking, breaks, earned app time, your existing terrarium, and your history remain available without Plus.
+Reverloop Plus is an optional auto-renewing subscription, offered monthly or yearly at the price shown in the app before you buy. Plus adds custom focus and break lengths and saved presets, an exclusive terrarium collection (plants, a creature, and habitats) that still grows through focus time, extended insights, and color themes with matching app icons. App blocking, Offline Resets, earned screen time, your existing terrarium, and your history remain available without Plus.
 
 - **Billing.** Payment is charged to your Apple Account when you confirm the purchase. Apple processes all payments; we never receive your payment details.
 - **Auto-renewal.** Your subscription renews automatically at the then-current price for the same period unless you turn off auto-renew at least 24 hours before the current period ends. Your account is charged for renewal within 24 hours before the period ends.
 - **Cancel anytime.** Manage or cancel in your Apple Account subscription settings, or from **Your rules → Manage subscription** in the app. Cancelling stops future renewals; you keep Plus until the end of the paid period.
 - **Refunds.** Refunds are handled by Apple under its policies at [reportaproblem.apple.com](https://reportaproblem.apple.com). We cannot issue refunds directly.
 - **Family and Ask to Buy.** Purchases requiring a parent's approval unlock after approval.
-- **When Plus ends.** Custom session lengths return to the free 15, 25, and 30 minute sessions, Plus habitats and themes return to the defaults, and Plus terrarium pieces are hidden. Your focus history, minutes grown, and earned app time are never removed. If you subscribe again, your Plus pieces and settings return.
+- **When Plus ends.** Custom session lengths return to the free 15, 25, and 30 minute sessions, Plus habitats and themes return to the defaults, and Plus terrarium pieces are hidden. Your focus history, minutes grown, and earned-time settings are never removed. If you subscribe again, your Plus pieces and settings return.
 - **Changes to price or features.** Apple will notify you of price increases where required. We may improve or change Plus features; we will not remove the core focus, blocking, and break features from the free version to push you toward Plus.
 
 ## 4. Screen Time and interruptions
 
 App blocking depends on permission, device support, Apple’s frameworks, and correct provisioning. Simulator demonstrations do not block other applications. Device behavior can vary with operating-system versions and authorization settings.
 
-An app pass is intended to meter selected-app usage. The break countdown is a reminder to return, not a promise that the phone will relock at that exact wall-clock second in every device state. Operating-system callbacks can be delayed. Returning in the app can end access, and the app includes a monitoring-expiry fallback. Users can revoke individual authorization through system settings.
+Offline Resets and earned-time limits rely on Apple’s frameworks and may start, lock, or unlock a short time after the scheduled moment or threshold. Operating-system callbacks can be delayed; opening Reverloop re-checks and corrects the current state. Users can revoke individual authorization through system settings.
 
 Do not rely on Reverloop as a security boundary, emergency safeguard, or guaranteed parental-control service. You remain responsible for managing essential access and your device settings.
 

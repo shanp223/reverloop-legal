@@ -2,7 +2,7 @@
 
 Reverloop is an iPhone and iPad focus timer with a growing terrarium and optional earned Screen Time access.
 
-**Version 1.0:** Focus timer, growing habitat, pause/resume, earned app time, planned breaks, local history, and a terrarium arrangement editor. Screen Time requires permission on a supported physical device.
+**Version 1.1:** Focus timer, growing habitat, pause/resume, earned screen time, Offline Reset, local history, and a terrarium arrangement editor. Screen Time requires permission on a supported physical device.
 
 ## Common questions
 

@@ -1,12 +1,12 @@
 # Reverloop Privacy Policy
 
-**Effective date: September 25, 2026 · Version 1.0**
+**Effective date: September 26, 2026 · Version 1.1**
 
 Reverloop is provided by the independent developer operating the [shanp223 GitHub account](https://github.com/shanp223). Contact: [pixxlpickle@gmail.com](mailto:pixxlpickle@gmail.com).
 
 ## What Reverloop does
 
-Reverloop is a focus timer with a growing virtual terrarium, an earned app-time balance, optional Screen Time restrictions, and reminders to return after breaks. This policy describes the version 1.0 for iPhone and iPad, not possible future features.
+Reverloop is a focus timer with a growing virtual terrarium, optional earned screen time, an optional Offline Reset, optional Screen Time restrictions, and reminders to return after breaks. This policy describes the version 1.0 for iPhone and iPad, not possible future features.
 
 ## Information kept on your device
 
@@ -15,16 +15,16 @@ Reverloop stores the following in its local app storage:
 - Tasks and next-step cues you enter.
 - Session dates, focused duration, completion status, and an in-progress timer.
 - Break type, planned duration, and recorded return delay.
-- Earned app-time balance, exchange settings, and app preferences.
+- Earned screen time rules (base limit, rate, daily maximum), today’s earned minutes and lock state, Offline Reset times, and app preferences.
 - Terrarium arrangements. Plant growth and creature unlocks are calculated from your focus history.
 
-This version has no sign-in, operator-run backend, advertising SDK, analytics SDK, or tracking identifier. It does not send your study history, terrarium, or app-time balance to the developer. It does not sell or share that information for advertising. Device backups may include local app data according to your Apple settings; this is not an app-operated cloud sync service.
+This version has no sign-in, operator-run backend, advertising SDK, analytics SDK, or tracking identifier. It does not send your study history, terrarium, earned-time state or reset schedule to the developer. It does not sell or share that information for advertising. Device backups may include local app data according to your Apple settings; this is not an app-operated cloud sync service.
 
 ## Optional Screen Time access
 
-If you authorize Screen Time, you can select distracting applications, categories, and websites using Apple’s picker. The app stores Apple-provided selection tokens locally in an App Group shared only with its companion extensions. It also stores restriction preferences, access-grant identifiers and expiry times, and your return cue there.
+If you authorize Screen Time, you can use Apple’s picker to select applications, categories, and websites to block, to earn time with, to limit, or to keep allowed during an Offline Reset. The app stores Apple-provided selection tokens locally in an App Group shared only with its companion extensions. It also stores restriction preferences, earned-time progress, Offline Reset start and end times, and your return cue there.
 
-Apple’s Family Controls, Managed Settings, and Device Activity frameworks apply restrictions and deliver usage-threshold events. Reverloop uses these events to manage earned access. It does not read messages or webpage contents and does not send a list of selected apps to the developer. The system can display selected app information within Apple’s interfaces.
+Apple’s Family Controls, Managed Settings, and Device Activity frameworks apply restrictions and deliver usage-threshold events. Reverloop uses these events on your iPhone to add earned minutes to your daily limit, lock limited apps when that limit is reached, and start and end Offline Resets. Reverloop never learns app names or how you use them beyond these thresholds, and nothing leaves your device. It does not read messages or webpage contents and does not send a list of selected apps to the developer. The system can display selected app information within Apple’s interfaces.
 
 You can turn protection off in Reverloop and revoke its Screen Time authorization in iPhone Settings. The timer and terrarium can be used without enabling app blocking.
 
